@@ -16,4 +16,3 @@ Este espaço serve para praticar documentação e explorar o GitHub. Os projetos
 - **Arduino**
 - **Linux**
 - **Git**
-- **Docker**
