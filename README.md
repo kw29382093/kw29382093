@@ -17,5 +17,3 @@ Este espaço serve para praticar documentação e explorar o GitHub. Os projetos
 - **Linux**
 - **Git**
 - **Docker**
-  
-Divirta-se explorando! 🚀
