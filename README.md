@@ -1,16 +1,27 @@
-### Hi there 👋
+# Bem-vindo ao meu GitHub!
 
-<!--
-**kw29382093/kw29382093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este espaço serve para praticar documentação e explorar o GitHub. Os projetos são simples e voltados para aprendizado.
 
-Here are some ideas to get you started:
+## Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens de Marcação
+- **HTML**
+- **CSS**
+
+### Linguagens de Programação
+- **C**
+- **Python**
+
+### Outras Tecnologias
+- **Arduino**
+- **Linux**
+- **Git**
+- **Docker**
+
+## Como Colaborar
+
+Se você quiser colaborar em algum projeto ou tiver alguma dúvida, sinta-se à vontade para entrar em contato!
+
+- **Twitter:** @kauan00202
+
+Divirta-se explorando! 🚀
