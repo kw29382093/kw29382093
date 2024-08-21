@@ -1,6 +1,6 @@
 # Olá, bem-vindo ao meu GitHub. 
 
-Criado para se habituar ao Git e GitHub, bem como à documentação. Os projetos aqui não serão complexos. Se você tiver alguma dúvida ou quiser colaborar em algum projeto, fique à vontade para entrar em contato comigo!
+Criado para se habituar ao Git e GitHub. Os projetos aqui não serão complexos
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
